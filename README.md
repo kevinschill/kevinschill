@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 - [Visual Studio Code, Python, Webdriver - Instagram Bot - Wir gehen alles nochmal durch.](https://www.youtube.com/watch?v=sQjLr1lyPN4)
 - [Instagram Follower Accept Bot - Follower Akzeptieren - Python](https://www.youtube.com/watch?v=TIVGr4yxpHI)
 - [Wir programmieren einen Instagram Bot - Update - Auto Like, Follow, Unfollow.](https://www.youtube.com/watch?v=xt5xV6C3ROA)
+- [Wir installieren Visual Studio Code, Python und Chromewebdriver](https://www.youtube.com/watch?v=OLYfh09OsQU)
 - [Instagram Bot Update - neue Funktionen | Python | Selenium](https://www.youtube.com/watch?v=LVj9tLk5kQs)
-- [Instagram Bot Programmieren mit Python | Auto Like Bot | Selenium](https://www.youtube.com/watch?v=xhmZqKkaDZE)
 <!-- YOUTUBE:END -->
 
 ---
