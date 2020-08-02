@@ -28,9 +28,11 @@ Here are some ideas to get you started:
 
 <br />
 
+---
+
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
@@ -56,11 +58,13 @@ Here are some ideas to get you started:
 <!-- YOUTUBE:END -->
 
 ---
-<!--
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=kevinschill&show_icons=true&hide_border=true" />
 
 [website]: https://kevinschill.de
 [youtube]: https://www.youtube.com/channel/UClRgdSYBbm4UgtexqDBxM8Q
 [instagram]: https://www.instagram.com/kevinschill.dev/
 [linkedin]: https://www.linkedin.com/in/kevin-schill-46774418a/
+<!--
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=kevinschill&show_icons=true&hide_border=true" />
+
+
 -->
