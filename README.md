@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Kevin [website][instagram]👋
 
-## I'm a Developer, Entrepreneur and Visionaire
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
